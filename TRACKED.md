@@ -1,4 +1,4 @@
-# All Patterns seen so far... (in my firmware copy<sup>1<sup>) VIA ImHex HexEditor!
+# All Patterns seen so far... (in my firmware copy<sup>1<sup> #) VIA ImHex HexEditor!
 
 ## OS ERROR LOCATION AND IMAGE
 ### Location: 0x0000DF0B
